@@ -1,2 +1,3 @@
 this is master branch,there have something not to do,and some feature will add.
 this is on dev branch.
+i am people A,this is on dev branch .
